@@ -1,0 +1,52 @@
+Thanks for your purchase.
+
+This package contains a whole character with basic animations ready to play with. Also you can find many different color versions. The helmet (horns) is equipable.
+
+[Leviathan Turnaround Video]
+
+[Leviathan InGame Animations]
+
+The Package contains the following: 
+
+[Model]
+9670 Triangles
+5170 Polygons
+5400 Verts
+Full Rigged character mesh, works with both Mecanim Generic & Legacy
+
+[Textures/Mats]
+Next Gen material:
+16x Color maps
+16x Specular maps (included as Aplha channel in the Color maps)
++ Emissive maps
++ Normal map
++ Displace map (for DX11 Tesellation shaders)
++ Opacity map
+
+[ 13 Animations]
+All animations are mecanim ready and compatible Legacy. There is only one avatar for all animations (Leviathan_Mesh Avatar)
+Stand Idle
+Attack 1
+Attack 2
+Attack Special
+Attack Hard
+Get Damage 1
+Get Damage 2
+Walk Cycle
+Walk Forward
+Stunned
+Block Attack
+Roar
+Die
+
+[DemoScene]
+The asset includes a demoscene (the one you can see on the video-demo).
+
+I will update with more content as I find time to. 
+If you have comments or question you got my mail here: daelon@gmail.com 
+Please rate and comment so I can keep doing good stuff! 
+
+
+I hope you enjoy it.
+
+DLNK Artworks [www.daelonik.com]

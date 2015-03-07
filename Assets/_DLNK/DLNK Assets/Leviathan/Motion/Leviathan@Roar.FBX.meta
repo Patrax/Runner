@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 07aacf96be80fe246ad9d26f7baf95c7
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LEVIATHAN_RIG_
+    100004: LEVIATHAN_RIG_Crest01
+    100006: LEVIATHAN_RIG_Crest02
+    100008: LEVIATHAN_RIG_Crest03
+    100010: LEVIATHAN_RIG_Crest04
+    100012: LEVIATHAN_RIG_Crest11
+    100014: LEVIATHAN_RIG_Crest12
+    100016: LEVIATHAN_RIG_Crest13
+    100018: LEVIATHAN_RIG_Crest21
+    100020: LEVIATHAN_RIG_Crest22
+    100022: LEVIATHAN_RIG_Crest23
+    100024: LEVIATHAN_RIG_DeTail1
+    100026: LEVIATHAN_RIG_DeTail2
+    100028: LEVIATHAN_RIG_DeTail3
+    100030: LEVIATHAN_RIG_DeTail4
+    100032: LEVIATHAN_RIG_Head
+    100034: LEVIATHAN_RIG_Jaw
+    100036: LEVIATHAN_RIG_LArm1
+    100038: LEVIATHAN_RIG_LArm2
+    100040: LEVIATHAN_RIG_LArmCollarbone
+    100042: LEVIATHAN_RIG_LArmLClaw
+    100044: LEVIATHAN_RIG_LClawLow
+    100046: LEVIATHAN_RIG_LLeg1
+    100048: LEVIATHAN_RIG_LLeg1 1
+    100050: LEVIATHAN_RIG_LLeg1 2
+    100052: LEVIATHAN_RIG_LLeg1 3
+    100054: LEVIATHAN_RIG_LLeg2
+    100056: LEVIATHAN_RIG_LLeg2 1
+    100058: LEVIATHAN_RIG_LLeg2 2
+    100060: LEVIATHAN_RIG_LLeg2 3
+    100062: LEVIATHAN_RIG_LLegCollarbone
+    100064: LEVIATHAN_RIG_LLegCollarbone 1
+    100066: LEVIATHAN_RIG_LLegCollarbone 2
+    100068: LEVIATHAN_RIG_LLegCollarbone 3
+    100070: LEVIATHAN_RIG_LLegPlatform
+    100072: LEVIATHAN_RIG_LLegPlatform 1
+    100074: LEVIATHAN_RIG_LLegPlatform 2
+    100076: LEVIATHAN_RIG_LLegPlatform 3
+    100078: LEVIATHAN_RIG_LowerNeck1
+    100080: LEVIATHAN_RIG_LowerNeck2
+    100082: LEVIATHAN_RIG_LowerNeck3
+    100084: LEVIATHAN_RIG_LowerNeck4
+    100086: LEVIATHAN_RIG_LSting1
+    100088: LEVIATHAN_RIG_LSting2
+    100090: LEVIATHAN_RIG_LSting3
+    100092: LEVIATHAN_RIG_Middle_Neck
+    100094: LEVIATHAN_RIG_Neck1
+    100096: LEVIATHAN_RIG_Neck2
+    100098: LEVIATHAN_RIG_Pelvis
+    100100: LEVIATHAN_RIG_RArm1
+    100102: LEVIATHAN_RIG_RArm2
+    100104: LEVIATHAN_RIG_RArmCollarbone
+    100106: LEVIATHAN_RIG_RArmRClaw
+    100108: LEVIATHAN_RIG_RClawLow
+    100110: LEVIATHAN_RIG_RClawUp
+    100112: LEVIATHAN_RIG_RLeg1
+    100114: LEVIATHAN_RIG_RLeg1 1
+    100116: LEVIATHAN_RIG_RLeg1 2
+    100118: LEVIATHAN_RIG_RLeg1 3
+    100120: LEVIATHAN_RIG_RLeg2
+    100122: LEVIATHAN_RIG_RLeg2 1
+    100124: LEVIATHAN_RIG_RLeg2 2
+    100126: LEVIATHAN_RIG_RLeg2 3
+    100128: LEVIATHAN_RIG_RLegCollarbone
+    100130: LEVIATHAN_RIG_RLegCollarbone 1
+    100132: LEVIATHAN_RIG_RLegCollarbone 2
+    100134: LEVIATHAN_RIG_RLegCollarbone 3
+    100136: LEVIATHAN_RIG_RLegPlatform
+    100138: LEVIATHAN_RIG_RLegPlatform 1
+    100140: LEVIATHAN_RIG_RLegPlatform 2
+    100142: LEVIATHAN_RIG_RLegPlatform 3
+    100144: LEVIATHAN_RIG_RSting1
+    100146: LEVIATHAN_RIG_RSting2
+    100148: LEVIATHAN_RIG_RSting3
+    100150: LEVIATHAN_RIG_Tail1
+    100152: LEVIATHAN_RIG_Tail2
+    100154: LEVIATHAN_RIG_Tail3
+    100156: LEVIATHAN_RIG_Tail4
+    100158: LEVIATHAN_RIG_Tail5
+    100160: LEVIATHAN_RIG_Tail6
+    100162: LEVIATHAN_RIG_Tail7
+    100164: LEVIATHAN_RIG_Tail8
+    100166: LEVIATHAN_RIG_Tail9
+    100168: LEVIATHAN_RIG_TailCrest1
+    100170: LEVIATHAN_RIG_TailCrest2
+    100172: LEVIATHAN_RIG_TailCrest3
+    100174: LEVIATHAN_RIG_UpJaw
+    100176: MESH_LEVIATHAN_Body001
+    100178: MESH_LEVIATHAN_Crest
+    100180: MESH_LEVIATHAN_DeTail
+    100182: MESH_LEVIATHAN_Helmet
+    100184: MESH_LEVIATHAN_LPin001
+    100186: MESH_LEVIATHAN_RPin001
+    100188: MESH_LEVIATHAN_TailCrest
+    400000: //RootNode
+    400002: LEVIATHAN_RIG_
+    400004: LEVIATHAN_RIG_Crest01
+    400006: LEVIATHAN_RIG_Crest02
+    400008: LEVIATHAN_RIG_Crest03
+    400010: LEVIATHAN_RIG_Crest04
+    400012: LEVIATHAN_RIG_Crest11
+    400014: LEVIATHAN_RIG_Crest12
+    400016: LEVIATHAN_RIG_Crest13
+    400018: LEVIATHAN_RIG_Crest21
+    400020: LEVIATHAN_RIG_Crest22
+    400022: LEVIATHAN_RIG_Crest23
+    400024: LEVIATHAN_RIG_DeTail1
+    400026: LEVIATHAN_RIG_DeTail2
+    400028: LEVIATHAN_RIG_DeTail3
+    400030: LEVIATHAN_RIG_DeTail4
+    400032: LEVIATHAN_RIG_Head
+    400034: LEVIATHAN_RIG_Jaw
+    400036: LEVIATHAN_RIG_LArm1
+    400038: LEVIATHAN_RIG_LArm2
+    400040: LEVIATHAN_RIG_LArmCollarbone
+    400042: LEVIATHAN_RIG_LArmLClaw
+    400044: LEVIATHAN_RIG_LClawLow
+    400046: LEVIATHAN_RIG_LLeg1
+    400048: LEVIATHAN_RIG_LLeg1 1
+    400050: LEVIATHAN_RIG_LLeg1 2
+    400052: LEVIATHAN_RIG_LLeg1 3
+    400054: LEVIATHAN_RIG_LLeg2
+    400056: LEVIATHAN_RIG_LLeg2 1
+    400058: LEVIATHAN_RIG_LLeg2 2
+    400060: LEVIATHAN_RIG_LLeg2 3
+    400062: LEVIATHAN_RIG_LLegCollarbone
+    400064: LEVIATHAN_RIG_LLegCollarbone 1
+    400066: LEVIATHAN_RIG_LLegCollarbone 2
+    400068: LEVIATHAN_RIG_LLegCollarbone 3
+    400070: LEVIATHAN_RIG_LLegPlatform
+    400072: LEVIATHAN_RIG_LLegPlatform 1
+    400074: LEVIATHAN_RIG_LLegPlatform 2
+    400076: LEVIATHAN_RIG_LLegPlatform 3
+    400078: LEVIATHAN_RIG_LowerNeck1
+    400080: LEVIATHAN_RIG_LowerNeck2
+    400082: LEVIATHAN_RIG_LowerNeck3
+    400084: LEVIATHAN_RIG_LowerNeck4
+    400086: LEVIATHAN_RIG_LSting1
+    400088: LEVIATHAN_RIG_LSting2
+    400090: LEVIATHAN_RIG_LSting3
+    400092: LEVIATHAN_RIG_Middle_Neck
+    400094: LEVIATHAN_RIG_Neck1
+    400096: LEVIATHAN_RIG_Neck2
+    400098: LEVIATHAN_RIG_Pelvis
+    400100: LEVIATHAN_RIG_RArm1
+    400102: LEVIATHAN_RIG_RArm2
+    400104: LEVIATHAN_RIG_RArmCollarbone
+    400106: LEVIATHAN_RIG_RArmRClaw
+    400108: LEVIATHAN_RIG_RClawLow
+    400110: LEVIATHAN_RIG_RClawUp
+    400112: LEVIATHAN_RIG_RLeg1
+    400114: LEVIATHAN_RIG_RLeg1 1
+    400116: LEVIATHAN_RIG_RLeg1 2
+    400118: LEVIATHAN_RIG_RLeg1 3
+    400120: LEVIATHAN_RIG_RLeg2
+    400122: LEVIATHAN_RIG_RLeg2 1
+    400124: LEVIATHAN_RIG_RLeg2 2
+    400126: LEVIATHAN_RIG_RLeg2 3
+    400128: LEVIATHAN_RIG_RLegCollarbone
+    400130: LEVIATHAN_RIG_RLegCollarbone 1
+    400132: LEVIATHAN_RIG_RLegCollarbone 2
+    400134: LEVIATHAN_RIG_RLegCollarbone 3
+    400136: LEVIATHAN_RIG_RLegPlatform
+    400138: LEVIATHAN_RIG_RLegPlatform 1
+    400140: LEVIATHAN_RIG_RLegPlatform 2
+    400142: LEVIATHAN_RIG_RLegPlatform 3
+    400144: LEVIATHAN_RIG_RSting1
+    400146: LEVIATHAN_RIG_RSting2
+    400148: LEVIATHAN_RIG_RSting3
+    400150: LEVIATHAN_RIG_Tail1
+    400152: LEVIATHAN_RIG_Tail2
+    400154: LEVIATHAN_RIG_Tail3
+    400156: LEVIATHAN_RIG_Tail4
+    400158: LEVIATHAN_RIG_Tail5
+    400160: LEVIATHAN_RIG_Tail6
+    400162: LEVIATHAN_RIG_Tail7
+    400164: LEVIATHAN_RIG_Tail8
+    400166: LEVIATHAN_RIG_Tail9
+    400168: LEVIATHAN_RIG_TailCrest1
+    400170: LEVIATHAN_RIG_TailCrest2
+    400172: LEVIATHAN_RIG_TailCrest3
+    400174: LEVIATHAN_RIG_UpJaw
+    400176: MESH_LEVIATHAN_Body001
+    400178: MESH_LEVIATHAN_Crest
+    400180: MESH_LEVIATHAN_DeTail
+    400182: MESH_LEVIATHAN_Helmet
+    400184: MESH_LEVIATHAN_LPin001
+    400186: MESH_LEVIATHAN_RPin001
+    400188: MESH_LEVIATHAN_TailCrest
+    2300000: MESH_LEVIATHAN_Helmet
+    2300002: MESH_LEVIATHAN_LPin001
+    2300004: MESH_LEVIATHAN_RPin001
+    3300000: MESH_LEVIATHAN_Helmet
+    3300002: MESH_LEVIATHAN_LPin001
+    3300004: MESH_LEVIATHAN_RPin001
+    4300000: MESH_LEVIATHAN_Helmet
+    4300002: MESH_LEVIATHAN_RPin001
+    4300004: MESH_LEVIATHAN_LPin001
+    4300006: MESH_LEVIATHAN_Body001
+    4300008: MESH_LEVIATHAN_Crest
+    4300010: MESH_LEVIATHAN_TailCrest
+    4300012: MESH_LEVIATHAN_DeTail
+    7400000: Roar
+    9500000: //RootNode
+    13700000: MESH_LEVIATHAN_Body001
+    13700002: MESH_LEVIATHAN_Crest
+    13700004: MESH_LEVIATHAN_DeTail
+    13700006: MESH_LEVIATHAN_TailCrest
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Roar
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LEVIATHAN_RIG_
+        weight: 1
+      - path: LEVIATHAN_RIG_LLegPlatform
+        weight: 1
+      - path: LEVIATHAN_RIG_LLegPlatform 1
+        weight: 1
+      - path: LEVIATHAN_RIG_LLegPlatform 2
+        weight: 1
+      - path: LEVIATHAN_RIG_LLegPlatform 3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Crest01
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Crest02
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Crest11
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Crest21
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone/LEVIATHAN_RIG_LLeg1
+          2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone/LEVIATHAN_RIG_LLeg1
+          2/LEVIATHAN_RIG_LLeg2 1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 1/LEVIATHAN_RIG_LLeg1
+          3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 1/LEVIATHAN_RIG_LLeg1
+          3/LEVIATHAN_RIG_LLeg2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 2/LEVIATHAN_RIG_LLeg1
+          1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 2/LEVIATHAN_RIG_LLeg1
+          1/LEVIATHAN_RIG_LLeg2 2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 3/LEVIATHAN_RIG_LLeg1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LLegCollarbone 3/LEVIATHAN_RIG_LLeg1/LEVIATHAN_RIG_LLeg2
+          3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone/LEVIATHAN_RIG_LArm1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone/LEVIATHAN_RIG_LArm1/LEVIATHAN_RIG_LArm2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone/LEVIATHAN_RIG_LArm1/LEVIATHAN_RIG_LArm2/LEVIATHAN_RIG_LArmLClaw
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone/LEVIATHAN_RIG_LArm1/LEVIATHAN_RIG_LArm2/LEVIATHAN_RIG_LArmLClaw/LEVIATHAN_RIG_LClawLow
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_LArmCollarbone/LEVIATHAN_RIG_LArm1/LEVIATHAN_RIG_LArm2/LEVIATHAN_RIG_LArmLClaw/LEVIATHAN_RIG_LClawLow/MESH_LEVIATHAN_RPin001
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1/LEVIATHAN_RIG_Neck2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1/LEVIATHAN_RIG_Neck2/LEVIATHAN_RIG_Head
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1/LEVIATHAN_RIG_Neck2/LEVIATHAN_RIG_Head/LEVIATHAN_RIG_Jaw
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1/LEVIATHAN_RIG_Neck2/LEVIATHAN_RIG_Head/LEVIATHAN_RIG_UpJaw
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_Neck1/LEVIATHAN_RIG_Neck2/LEVIATHAN_RIG_Head/MESH_LEVIATHAN_Helmet
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1/LEVIATHAN_RIG_RArm2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1/LEVIATHAN_RIG_RArm2/LEVIATHAN_RIG_RArmRClaw
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1/LEVIATHAN_RIG_RArm2/LEVIATHAN_RIG_RArmRClaw/LEVIATHAN_RIG_RClawLow
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1/LEVIATHAN_RIG_RArm2/LEVIATHAN_RIG_RArmRClaw/LEVIATHAN_RIG_RClawUp
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LowerNeck4/LEVIATHAN_RIG_Middle_Neck/LEVIATHAN_RIG_RArmCollarbone/LEVIATHAN_RIG_RArm1/LEVIATHAN_RIG_RArm2/LEVIATHAN_RIG_RArmRClaw/LEVIATHAN_RIG_RClawUp/MESH_LEVIATHAN_LPin001
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LSting1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LSting1/LEVIATHAN_RIG_LSting2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_LSting1/LEVIATHAN_RIG_LSting2/LEVIATHAN_RIG_LSting3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_RSting1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_RSting1/LEVIATHAN_RIG_RSting2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_LowerNeck1/LEVIATHAN_RIG_LowerNeck2/LEVIATHAN_RIG_LowerNeck3/LEVIATHAN_RIG_RSting1/LEVIATHAN_RIG_RSting2/LEVIATHAN_RIG_RSting3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone/LEVIATHAN_RIG_RLeg1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone/LEVIATHAN_RIG_RLeg1/LEVIATHAN_RIG_RLeg2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 1/LEVIATHAN_RIG_RLeg1
+          1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 1/LEVIATHAN_RIG_RLeg1
+          1/LEVIATHAN_RIG_RLeg2 1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 2/LEVIATHAN_RIG_RLeg1
+          2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 2/LEVIATHAN_RIG_RLeg1
+          2/LEVIATHAN_RIG_RLeg2 3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 3/LEVIATHAN_RIG_RLeg1
+          3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_RLegCollarbone 3/LEVIATHAN_RIG_RLeg1
+          3/LEVIATHAN_RIG_RLeg2 2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest03
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest04
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest12
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest13
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest22
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Crest23
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8/LEVIATHAN_RIG_Tail9
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8/LEVIATHAN_RIG_Tail9/LEVIATHAN_RIG_DeTail1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8/LEVIATHAN_RIG_Tail9/LEVIATHAN_RIG_DeTail2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8/LEVIATHAN_RIG_Tail9/LEVIATHAN_RIG_DeTail3
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_Tail6/LEVIATHAN_RIG_Tail7/LEVIATHAN_RIG_Tail8/LEVIATHAN_RIG_Tail9/LEVIATHAN_RIG_DeTail4
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_TailCrest1
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_TailCrest2
+        weight: 1
+      - path: LEVIATHAN_RIG_Pelvis/LEVIATHAN_RIG_Tail1/LEVIATHAN_RIG_Tail2/LEVIATHAN_RIG_Tail3/LEVIATHAN_RIG_Tail4/LEVIATHAN_RIG_Tail5/LEVIATHAN_RIG_TailCrest3
+        weight: 1
+      - path: LEVIATHAN_RIG_RLegPlatform
+        weight: 1
+      - path: LEVIATHAN_RIG_RLegPlatform 1
+        weight: 1
+      - path: LEVIATHAN_RIG_RLegPlatform 2
+        weight: 1
+      - path: LEVIATHAN_RIG_RLegPlatform 3
+        weight: 1
+      - path: MESH_LEVIATHAN_Body001
+        weight: 1
+      - path: MESH_LEVIATHAN_Crest
+        weight: 1
+      - path: MESH_LEVIATHAN_DeTail
+        weight: 1
+      - path: MESH_LEVIATHAN_TailCrest
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 240eb9482b84aa044a36b0069b513ab9,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

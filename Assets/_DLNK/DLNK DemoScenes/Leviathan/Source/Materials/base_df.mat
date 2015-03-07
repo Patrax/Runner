@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: base_df
+  m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: ff858723d90c41844b77d110b2eacd9d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: c1ceb61716a785c4187b946cadf870e7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 8cd7ad93e4cb16a4596ac103efa24be5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 93891294247e9dc41a351a10d7aaffdc, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 8cd7ad93e4cb16a4596ac103efa24be5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _LightingRamp
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .0300000031
+      data:
+        first:
+          name: _Parallax
+        second: .713482141
+      data:
+        first:
+          name: _EdgeLength
+        second: 3
+      data:
+        first:
+          name: _Displacement
+        second: 1
+      data:
+        first:
+          name: _Tess
+        second: 4
+      data:
+        first:
+          name: _RimPower
+        second: 3
+      data:
+        first:
+          name: _Smoothness
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .301470578, g: .301470578, b: .301470578, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .183823526, g: .183823526, b: .183823526, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .5}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .75, g: .75, b: .75, a: 0}

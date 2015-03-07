@@ -1,0 +1,33 @@
+Fantasy Action RPG Tileset
+
+V 1.2
+
+- Unity 5 compatible
+- New cloths
+- New master materials
+- New GUI
+- minor bug fix
+
+
+V 1.1
+
+- Fixed lightmaps resolution for the module scenes.
+- New animated Door, prefab ready to use in your map (Wall_C_4x4_06).
+- Animated loot Chest, New prefab ready to use (ChestA).
+- Fixed some artifacts in the Atlas Texture.
+- Fixed Carpet_A prefab and come to play Carpet_B and Carpet_C
+- minor bug fix
+
+
+v 1.0
+
+- Initial release
+
+
+
+
+
+Thank you for your support and have fun!
+
+
+
